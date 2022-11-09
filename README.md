@@ -46,4 +46,4 @@ We deploy our Streamlit app to [ Heroku.com] (https://www.heroku.com/). In this 
 
 **Flask**
 
-We also create our app by using flask , then deployed it to Heroku . The files of this part are located into (Flask_deployment) folder. You can access the app by following this link : https://prediciton-of-startup.herokuapp.com/
+We also create our app by using flask , then deployed it to Heroku . The files of this part are located into (Flask_deployment) folder. You can access the app by following this link : https://team-a-model-deployment-django.herokuapp.com/
